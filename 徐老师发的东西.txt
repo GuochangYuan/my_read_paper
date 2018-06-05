@@ -1,0 +1,24 @@
+徐子川老师 2018/1/9 14:40:55
+https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kablan.pdf 
+
+徐子川老师 2018/1/9 14:42:45
+QoS driven function placement reducing expenditures in NFV deployments
+徐子川老师 2018/1/9 14:43:42
+availability aware mapping of service function chains
+icc 17
+徐子川老师 2018/1/9 14:45:22
+JSAC 17
+徐子川老师 2018/1/9 14:46:32
+* QoS aware and reliable traffic steering for service function chaining in mobile networks
+* dynamic scaling of virutalized, distributed service chains: a case study of IMS, JSAC 17
+徐子川老师 2018/1/9 14:47:57
+* Approximation algorithms for the NFVservice distribution problem, INFOCOM 17
+* An online optimization framework for distributed fog network fromation with minimal latency. ---- arXiv
+徐子川老师 2018/1/9 14:49:56
+The critical network flow problem: migratability and survivability, ToN, 17
+徐子川老师 2018/1/9 14:41:39
+http://ieeexplore.ieee.org/document/7883826/ 
+
+徐子川老师 2018/1/9 14:44:43
+optimizing virtual backup allocation for middleboxes, ICNP 16
+HYPER: A hybrid high-performance framework for network function virtualization
